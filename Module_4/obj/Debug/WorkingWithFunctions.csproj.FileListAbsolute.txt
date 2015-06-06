@@ -1,0 +1,6 @@
+N:\Bucket\DEV201\Module_4\obj\Debug\WorkingWithFunctions.csprojResolveAssemblyReference.cache
+N:\Bucket\DEV201\Module_4\bin\WorkingWithFunctions.dll.config
+N:\Bucket\DEV201\Module_4\bin\WorkingWithFunctions.dll
+N:\Bucket\DEV201\Module_4\bin\WorkingWithFunctions.pdb
+N:\Bucket\DEV201\Module_4\obj\Debug\WorkingWithFunctions.dll
+N:\Bucket\DEV201\Module_4\obj\Debug\WorkingWithFunctions.pdb

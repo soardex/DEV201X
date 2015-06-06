@@ -1,0 +1,6 @@
+N:\Bucket\DEV201\Module_9\CookBook\obj\Debug\CookBook-Module9.csprojResolveAssemblyReference.cache
+N:\Bucket\DEV201\Module_9\CookBook\bin\CookBook-Module9.dll.config
+N:\Bucket\DEV201\Module_9\CookBook\bin\CookBook-Module9.dll
+N:\Bucket\DEV201\Module_9\CookBook\bin\CookBook-Module9.pdb
+N:\Bucket\DEV201\Module_9\CookBook\obj\Debug\CookBook-Module9.dll
+N:\Bucket\DEV201\Module_9\CookBook\obj\Debug\CookBook-Module9.pdb
